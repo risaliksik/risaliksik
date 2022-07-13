@@ -1,12 +1,15 @@
 # Risaliksik
 
 This ain't no love letter, we just got memorandumed so we gone rogue.
+Learning Side Project for Aluminus 
 
 ## To Do lists
-- [ ] Integrate Netlify 
-- [ ] Base
+- [ ] Integrate Netlify ?
+- [ ] HTML Base
+- [ ] Integrate CSS Styling From Wix Base
 - [ ] Integrate Hugo Static Generator?
-- [ ] 
+- [ ] Find a Stack?
+- [ ] Find the Best Backend?
 
 <!--
 **risaliksik/risaliksik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
