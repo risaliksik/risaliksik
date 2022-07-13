@@ -1,4 +1,12 @@
-### Hi there 👋
+# Risaliksik
+
+This ain't no love letter, we just got memorandumed so we gone rogue.
+
+## To Do lists
+- [ ] Integrate Netlify 
+- [ ] Base
+- [ ] Integrate Hugo Static Generator?
+- [ ] 
 
 <!--
 **risaliksik/risaliksik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
